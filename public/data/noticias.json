@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "categoria": "Educativas",
+    "titulo": "Becas internacionales abren convocatoria 2027",
+    "descripcion": "Universidades de cinco países ofrecen cupos completos para pregrado y posgrado.",
+    "contenido": [
+      "Cinco países abrieron sus convocatorias de becas para estudiantes colombianos, con cupos completos para pregrado y posgrado.",
+      "Las postulaciones se hacen en línea y exigen certificado de idiomas, carta de motivación y dos referencias académicas."
+    ],
+    "fecha": "2026-09-08",
+    "autor": "Redacción Bitácora",
+    "datos": {
+      "Ubicación": "Virtual",
+      "Duración": "Hasta el 30 de nov.",
+      "Precio": "Gratis",
+      "Cupos": "120 disponibles"
+    }
+  },
+  {
+    "id": 2,
+    "categoria": "Tecnológicas",
+    "titulo": "Nuevo laboratorio de IA en Bogotá",
+    "descripcion": "El centro impulsará proyectos de investigación aplicada con universidades locales.",
+    "contenido": [
+      "Bogotá tendrá un laboratorio de inteligencia artificial enfocado en investigación aplicada junto a universidades locales.",
+      "Abrirá convocatorias para estudiantes y emprendedores que quieran probar prototipos con acompañamiento técnico."
+    ],
+    "fecha": "2026-09-09",
+    "autor": "Redacción Bitácora",
+    "datos": {
+      "Ubicación": "Bogotá, Colombia",
+      "Duración": "Programa anual",
+      "Precio": "Gratis",
+      "Cupos": "40 disponibles"
+    }
+  },
+  {
+    "id": 3,
+    "categoria": "Turísticas",
+    "titulo": "Ruta del café: cinco pueblos para visitar este semestre",
+    "descripcion": "Un recorrido por el eje cafetero con experiencias guiadas y hospedaje rural.",
+    "contenido": [
+      "El eje cafetero se consolida como uno de los destinos favoritos para los viajeros que buscan experiencias auténticas. Esta ruta conecta cinco pueblos, cada uno con una identidad propia: fincas cafeteras, miradores naturales, gastronomía local y turismo comunitario.",
+      "El recorrido puede hacerse en cuatro días, con hospedaje en posadas familiares y guías certificados por las alcaldías locales. Se recomienda reservar con al menos tres semanas de anticipación durante temporada alta.",
+      "Entre las actividades destacadas están la recolección guiada de café, talleres de tueste artesanal y caminatas por senderos ecológicos aptos para todas las edades."
+    ],
+    "fecha": "2026-09-12",
+    "autor": "Redacción Bitácora",
+    "datos": {
+      "Ubicación": "Eje cafetero, Colombia",
+      "Duración": "4 días / 3 noches",
+      "Precio desde": "$780.000 COP",
+      "Cupos": "12 disponibles"
+    }
+  },
+  {
+    "id": 4,
+    "categoria": "Comerciales",
+    "titulo": "Feria de emprendimiento reúne a 200 negocios locales",
+    "descripcion": "Pequeños productores exhiben sus marcas y ofrecen descuentos exclusivos.",
+    "contenido": [
+      "Más de 200 negocios locales se reunirán en una feria que busca acercar a los pequeños productores con nuevos clientes.",
+      "Habrá descuentos exclusivos, muestras gratuitas y charlas sobre cómo formalizar y hacer crecer un emprendimiento."
+    ],
+    "fecha": "2026-09-05",
+    "autor": "Redacción Bitácora",
+    "datos": {
+      "Ubicación": "Corferias, Bogotá",
+      "Duración": "3 días",
+      "Precio desde": "Entrada libre",
+      "Cupos": "Sin límite"
+    }
+  },
+  {
+    "id": 5,
+    "categoria": "Educativas",
+    "titulo": "Talleres gratuitos de robótica para colegios",
+    "descripcion": "Estudiantes de secundaria podrán inscribirse desde este mes sin costo.",
+    "contenido": [
+      "Un ciclo de talleres de robótica llegará a colegios públicos y privados, con kits incluidos y tutores universitarios.",
+      "Las inscripciones se abren este mes y están dirigidas a estudiantes de grados 8 a 11."
+    ],
+    "fecha": "2026-09-03",
+    "autor": "Redacción Bitácora",
+    "datos": {
+      "Ubicación": "Colegios de Cundinamarca",
+      "Duración": "8 semanas",
+      "Precio": "Gratis",
+      "Cupos": "300 disponibles"
+    }
+  },
+  {
+    "id": 6,
+    "categoria": "Tecnológicas",
+    "titulo": "Hackatón universitaria premia soluciones verdes",
+    "descripcion": "Equipos de todo el país competirán por financiación para sus prototipos.",
+    "contenido": [
+      "Equipos de universidades de todo el país competirán durante 48 horas creando soluciones tecnológicas para problemas ambientales.",
+      "Los tres mejores prototipos recibirán financiación y mentoría para llevarlos al mercado."
+    ],
+    "fecha": "2026-09-01",
+    "autor": "Redacción Bitácora",
+    "datos": {
+      "Ubicación": "Medellín, Colombia",
+      "Duración": "48 horas",
+      "Precio": "Gratis",
+      "Cupos": "60 equipos"
+    }
+  },
+  {
+    "id": 7,
+    "categoria": "Turísticas",
+    "titulo": "Nuevo mirador abre en la Sierra Nevada",
+    "descripcion": "Un mirador comunitario ofrece rutas guiadas por líderes indígenas locales.",
+    "contenido": [
+      "Un nuevo mirador comunitario abrió al público en la Sierra Nevada, administrado por líderes indígenas de la región.",
+      "Ofrece rutas guiadas de medio día y explica el significado cultural del territorio."
+    ],
+    "fecha": "2026-08-28",
+    "autor": "Redacción Bitácora",
+    "datos": {
+      "Ubicación": "Sierra Nevada de Santa Marta",
+      "Duración": "Medio día",
+      "Precio desde": "$95.000 COP",
+      "Cupos": "20 disponibles"
+    }
+  },
+  {
+    "id": 8,
+    "categoria": "Comerciales",
+    "titulo": "Mercado artesanal se traslada al centro histórico",
+    "descripcion": "El nuevo espacio triplica la capacidad para expositores independientes.",
+    "contenido": [
+      "El mercado artesanal cambia de sede y ocupará varias calles del centro histórico, con espacio para el triple de expositores.",
+      "Los sábados habrá música en vivo y talleres abiertos con los artesanos."
+    ],
+    "fecha": "2026-08-25",
+    "autor": "Redacción Bitácora",
+    "datos": {
+      "Ubicación": "Centro histórico",
+      "Duración": "Sábados y domingos",
+      "Precio desde": "Entrada libre",
+      "Cupos": "Sin límite"
+    }
+  }
+]
